@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/my-bags/static/css/main.54fbb4b9.css",
-    "main.js": "/my-bags/static/js/main.e1d0fc67.js",
+    "main.js": "/my-bags/static/js/main.ee651474.js",
     "static/js/787.7386ee09.chunk.js": "/my-bags/static/js/787.7386ee09.chunk.js",
+    "static/media/banner.png": "/my-bags/static/media/banner.327da028aa3520a43688.png",
+    "static/media/bag_01.png": "/my-bags/static/media/bag_01.b9b358ca9d107c148d01.png",
+    "static/media/bag_03.png": "/my-bags/static/media/bag_03.229b2d9cefd74bae018f.png",
+    "static/media/bag_05.png": "/my-bags/static/media/bag_05.418007bbee45bc2d25ef.png",
+    "static/media/bag_04.png": "/my-bags/static/media/bag_04.d69a749979d0aec7ef5a.png",
+    "static/media/bag_06.png": "/my-bags/static/media/bag_06.4e3a33c1c5f38b6044cb.png",
+    "static/media/bag_02.png": "/my-bags/static/media/bag_02.e07aaa48cbdea5fbda85.png",
     "static/media/montez-all-400-normal.woff": "/my-bags/static/media/montez-all-400-normal.79b5dfe53039dd35baa7.woff",
     "static/media/montez-latin-400-normal.woff2": "/my-bags/static/media/montez-latin-400-normal.e3ec19d3e32d3976b075.woff2",
     "index.html": "/my-bags/index.html",
     "main.54fbb4b9.css.map": "/my-bags/static/css/main.54fbb4b9.css.map",
-    "main.e1d0fc67.js.map": "/my-bags/static/js/main.e1d0fc67.js.map",
+    "main.ee651474.js.map": "/my-bags/static/js/main.ee651474.js.map",
     "787.7386ee09.chunk.js.map": "/my-bags/static/js/787.7386ee09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54fbb4b9.css",
-    "static/js/main.e1d0fc67.js"
+    "static/js/main.ee651474.js"
   ]
 }
